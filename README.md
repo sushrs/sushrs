@@ -1,5 +1,5 @@
 Hey Everyone!
-Hi, I'm Sushila<br>A Front End Developer from India.<br>I primarily work on HTML, CSS, JavaScript, TypeScript and React
+Hi, I'm Sushila.<br> A Front End Developer from India.<br>I primarily work on HTML, CSS, JavaScript, TypeScript and React.js
 
 
 ## 🌐 Socials:
