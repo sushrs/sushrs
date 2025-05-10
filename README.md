@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hey Everyone! Hi, I'm Sushila.<br><br>A Front End Developer from India. <br><br>I primarily work on HTML, CSS, JavaScript, TypeScript and React.js<br><br> I’m currently leveling up to become a full-stack developer <br>with the MERN stack that is- React, Node, Express and MongoDB
 
+I also write on Medium,  I really enjoy writing stories about tech, AI LLMs, hiring, business, and humor https://medium.com/@sushilaDevi
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2sushk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SushilaDevi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2sush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushinguz@gmail.com) 
