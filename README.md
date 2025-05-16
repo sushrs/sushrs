@@ -1,5 +1,11 @@
+# Hi there 👋, I'm Sushila!
+
+Welcome to my GitHub profile!  
+
+I'm a passionate developer who loves building cool things with code, collaborating on open-source projects, and continuously learning new technologies.
+
 # 💫 About Me:
-Hey Everyone! Hi, I'm Sushila.<br><br>A Front End Developer from India. <br><br>I primarily work on HTML, CSS, JavaScript, TypeScript and React.js<br><br> I’m currently leveling up to become a full-stack developer <br>with the MERN stack that is- React, Node, Express and MongoDB
+I primarily work on HTML, CSS, JavaScript, TypeScript and React.js<br><br> I’m currently leveling up to become a full-stack developer <br>with the MERN stack that is- React, Node, Express and MongoDB
 
 I also write on Medium,  I really enjoy writing stories about tech, AI LLMs, hiring, business, and humor https://medium.com/@sushilaDevi
 
